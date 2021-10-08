@@ -1,10 +1,16 @@
 .poop {
     margin:0;
     background-color:orangered;
+    font-size: 1.8rem;
+    padding: 2rem;
+    text-align: center;
 }
 
 .container {
     display: flex;
+    /* justify-content: center; */
+    margin: 0 3rem;
+    
 }
 
 .box {
