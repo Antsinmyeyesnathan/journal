@@ -2,3 +2,13 @@
     margin:0;
     background-color:orangered;
 }
+
+.container {
+    display: flex;
+}
+
+.box {
+    padding: 5rem;
+    margin: 1rem;
+    background-color: grey;
+}
